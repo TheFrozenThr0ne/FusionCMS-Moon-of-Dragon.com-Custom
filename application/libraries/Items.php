@@ -678,4 +678,3 @@ class ItemFlags
     public const int ITEM_FLAG_REPORT_TO_GUILD_CHAT              = 0x40000000;
     public const int ITEM_FLAG_NO_PROGRESSIVE_LOOT               = 0x80000000;
 }
-
